@@ -1,0 +1,59 @@
+.accomplishments_and_goals_vertical_images {
+    width: 400px;
+    height: 500px;
+}
+.accomplishments_and_goals_horizontal_images {
+    width: 550px;
+    height: 400px;
+}
+.individual_accomplishments_and_goals_section {
+    text-align: center;
+}
+.square_image {
+    width: 400px;
+    height: 400px;
+}
+.rectangular_image {
+    width: 550px;
+    height: 400px;
+}
+#portrait_image {
+    width: 400px;
+    height: 550px;
+}
+.centered_h1 {
+    text-align: center;
+}
+#accomplishments_and_goals_section {
+    float: left;
+    width: 50%;
+}
+header h1 {
+    text-align: center;
+}
+#navbar {
+    overflow: hidden;
+    background-color: #D6F1FF;
+    border-bottom: 5px solid #E8DAC3;
+}
+#navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#navbar a:hover {
+    background-color: #C3E8CD;
+}
+footer {
+    border-top: 3px solid #E8DAC3;
+}
+html {
+    background-color: #f8f8ff;
+    ;
+}
+#container {
+    text-align: center;
+}
