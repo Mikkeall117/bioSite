@@ -8,6 +8,9 @@
 }
 .individual_accomplishments_and_goals_section {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
 }
 .square_image {
     width: 400px;
@@ -26,7 +29,7 @@
 }
 #accomplishments_and_goals_section {
     float: left;
-    width: 50%;
+    width: 60%;
 }
 header h1 {
     text-align: center;
@@ -48,6 +51,9 @@ header h1 {
     background-color: #C3E8CD;
 }
 footer {
+    clear: left;
+    float: left;
+    width: 100%;
     border-top: 3px solid #E8DAC3;
 }
 html {
@@ -56,4 +62,16 @@ html {
 }
 #container {
     text-align: center;
+}
+#landing_page_section {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.individual_hobby_section {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 60%;
 }
