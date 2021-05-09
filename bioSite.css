@@ -55,6 +55,7 @@ footer {
     float: left;
     width: 100%;
     border-top: 3px solid #E8DAC3;
+    margin-top: 10px;
 }
 html {
     background-color: #f8f8ff;
@@ -62,6 +63,17 @@ html {
 }
 #container {
     text-align: center;
+}
+#container a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #E8DAC3;
+    padding: 2px;
+}
+#container a:hover {
+    background-color: #C3E8CD;
 }
 #landing_page_section {
     text-align: center;
