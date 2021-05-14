@@ -87,3 +87,34 @@ html {
     text-align: center;
     width: 60%;
 }
+header h1 {
+    font-family: 'Dancing Script', 'Open Sans', sans-serif, 'Playfair Display', serif;
+}
+#landing_page_section h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+#landing_page_section p {
+    font-family: 'Open Sans', sans-serif;
+}
+.individual_hobby_section h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.individual_hobby_section p {
+    font-family: 'Open Sans', sans-serif;
+}
+.accomplishments_and_goals {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 1.25em;
+}
+.individual_accomplishments_and_goals_section h3 {
+    font-family: 'Dancing Script';
+    font-size: 1.4em;
+}
+.individual_accomplishments_and_goals_section p {
+    font-family: 'Open Sans', sans-serif;
+}
